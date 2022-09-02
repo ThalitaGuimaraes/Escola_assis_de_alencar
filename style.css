@@ -1,0 +1,28 @@
+* body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.texto {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-left: 10px;
+}
+.botao {
+  text-align: center;
+  width: 500px;
+  height: 200px;
+}
+.botao:hover{
+  background-color: red;
+}
+.cardedit{
+  margin-left:10%;
+  margin-right:10%;
+  padding-top:3%;
+}
+
+
+

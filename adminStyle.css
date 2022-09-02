@@ -1,0 +1,59 @@
+body{
+    background-color: #F4F4F4;
+}
+
+
+.excluir_h1{
+    font-family: sans-serif;
+    margin-top: 5rem;
+}
+.excluir_icon{
+    color: red;
+}
+
+
+.btns{
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+.botao-area{
+    display: flex;
+    justify-content: center;
+    margin: 4rem auto;
+    width: 350px;
+}
+.botao{
+    font-size: 40px;
+    margin: 2rem auto;
+    height: 100px;
+    width: 200px;
+}
+.botao:hover{
+    background: rgb(205, 21, 21);
+    color: #F4F4F4;
+
+}
+
+
+.btn-back{
+    display: flex;
+    order: -1;
+    justify-content: center;
+    margin: 4rem 1rem;
+    width: 350px;
+}
+.botao-back{
+    font-size: 40px;
+    margin: 2rem auto;
+    height: 100px;
+    width: 200px;
+}
+.botao-back:hover{
+    color: rgb(29, 80, 29);
+}
